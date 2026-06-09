@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+assets/_clip.png
+.DS_Store
+*.log
